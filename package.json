@@ -1,0 +1,10 @@
+{
+  "name": "getopt-plus",
+  "version": "0.1.0",
+  "repo": "quinnjr/getopt-plus",
+  "description": "A small command line argument parser library extending the GNU getopt_long function.",
+  "keywords": [ "command", "command line", "unix", "posix", "getopt", "getopt_long", "argparse" ],
+  "license": "ISC",
+  "src": [ "src/getopt-plus.h", "src/getopt-plus.c" ],
+  "install": "make install"
+}
